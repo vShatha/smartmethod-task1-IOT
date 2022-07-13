@@ -24,3 +24,4 @@ output for the convert speech to text :
 
 
 3-speech to text in english languge
+![english copy](https://user-images.githubusercontent.com/108381198/178724995-f0135c12-8904-43de-bad3-088b880be716.png)
