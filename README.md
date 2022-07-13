@@ -5,19 +5,22 @@ this task by the smartmethod for IOT :
 
 2-Writing an wisdom ESP32 operating algorithm
 
+
+
 output for the convert speech to text :
 
-before talk
+1-before talk:
 
 ![base](https://user-images.githubusercontent.com/108381198/178724436-1a8ebc27-6284-4edc-bc48-fafa4d1d9481.png)
 
 
 
 
-speech to text in arabic languge
+2-speech to text in arabic languge:
+
+![arabic copy](https://user-images.githubusercontent.com/108381198/178724645-af68e8ab-52d0-4a4c-b817-760ca5b291ff.png)
 
 
 
 
-
-speech to text in english languge
+3-speech to text in english languge
