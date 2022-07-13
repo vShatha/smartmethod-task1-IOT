@@ -7,7 +7,7 @@ this task by the smartmethod for IOT :
 
 
 
-output for the convert speech to text :
+output for convert speech to text :
 
 1-before talk:
 
